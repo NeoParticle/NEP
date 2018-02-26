@@ -13,3 +13,5 @@ public static void Main ()
      AnotherContract ((byte[])"totalSupply");
 }
 ```
+
+**[Documentation](https://github.com/NeoParticle/docs/blob/master/index.md)**
